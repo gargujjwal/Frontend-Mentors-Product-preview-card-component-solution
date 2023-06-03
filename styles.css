@@ -2,125 +2,126 @@
 @import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,700&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    background-color: hsl(30, 38%, 92%);
-    font-family: "Fraunces", sans-serif;
-    color: hsl(228, 12%, 48%);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: hsl(30, 38%, 92%);
+	font-family: "Fraunces", sans-serif;
+	color: hsl(228, 12%, 48%);
 }
 
 img {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 main {
-    margin: 2rem;
-    display: flex;
-    flex-direction: column;
+	margin: 2rem;
+	display: flex;
+	flex-direction: column;
 }
 
 img {
-    border-radius: 0.625rem 0.625rem 0 0;
+	border-radius: 0.625rem 0.625rem 0 0;
 }
 
 .product-attributes {
-    background-color: #ffffff;
-    margin-top: -0.2rem;
-    padding: 2rem 1.7rem;
-    border-radius: 0 0 0.625rem 0.625rem;
-    max-width: 50rem;
+	background-color: #ffffff;
+	margin-top: -0.2rem;
+	padding: 2rem 1.7rem;
+	border-radius: 0 0 0.625rem 0.625rem;
+	max-width: 50rem;
 }
 
 .category {
-    text-transform: uppercase;
-    font-family: "Montserrat", sans-serif;
-    letter-spacing: 5px;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+	letter-spacing: 5px;
 }
 
 .name-of-perfume {
-    color: black;
-    font-weight: 700;
-    margin: 1rem 0;
+	color: black;
+	font-weight: 700;
+	margin: 1rem 0;
 }
 
 .description {
-    font-family: "Montserrat", sans-serif;
-    line-height: 1.5rem;
+	font-family: "Montserrat", sans-serif;
+	line-height: 1.5rem;
 }
 
 .price {
-    display: flex;
-    align-items: center;
-    margin: 30px 0;
-    color: hsl(158, 36%, 37%);
+	display: flex;
+	align-items: center;
+	margin: 30px 0;
+	color: hsl(158, 36%, 37%);
 }
 
 .cut-price {
-    color: hsl(228, 12%, 48%);
-    margin-left: 3rem;
+	color: hsl(228, 12%, 48%);
+	margin-left: 3rem;
 }
 
 .btn {
-    width: 100%;
-    border: none;
-    background-color: hsl(158, 36%, 37%);
-    border-radius: 0.625rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: "Montserrat", sans-serif;
-    font-weight: 700;
-    color: white;
-    min-height: 50px;
-    outline: none;
-    transition: 0.3s;
+	width: 100%;
+	border: none;
+	background-color: hsl(158, 36%, 37%);
+	border-radius: 0.625rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
+	color: white;
+	min-height: 50px;
+	outline: none;
+	transition: 0.3s;
 }
 
 .btn:hover {
-    background-color: hsl(158, 36%, 20%);
+	background-color: hsl(158, 36%, 20%);
 }
 
 .btn img {
-    margin-right: 10px;
+	margin-right: 10px;
 }
 
 .attribution {
-    font-size: 11px;
-    text-align: center;
+	font-size: 11px;
+	text-align: center;
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+	color: hsl(228, 45%, 44%);
 }
 
 @media only screen and (min-width: 768px) {
-    body {
-        align-items: center;
-    }
+	body {
+		align-items: center;
+		min-height: 100vh;
+	}
 
-    main {
-        flex-direction: row;
-    }
+	main {
+		flex-direction: row;
+	}
 
-    .product-attributes {
-        border-radius: 0 0.625rem 0.625rem 0;
-        max-width: 400px;
-        margin-top: 0;
-        margin-bottom: 3px;
-    }
+	.product-attributes {
+		border-radius: 0 0.625rem 0.625rem 0;
+		max-width: 400px;
+		margin-top: 0;
+		margin-bottom: 3px;
+	}
 
-    img {
-        border-radius: 0.625rem 0 0 0.625rem;
-    }
+	img {
+		border-radius: 0.625rem 0 0 0.625rem;
+	}
 
-    .product-image {
-        max-width: 300px;
-    }
-
+	.product-image {
+		max-width: 300px;
+	}
 }

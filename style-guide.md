@@ -1,35 +1,62 @@
-# Front-end Style Guide
+# Frontend Mentor - Product preview card component solution
 
-## Layout
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-The designs were created to the following widths:
+## Table of contents
 
-- Mobile: 375px
-- Desktop: 1440px
+-   [Frontend Mentor - Product preview card component solution](#frontend-mentor---product-preview-card-component-solution)
+    -   [Table of contents](#table-of-contents)
+    -   [Overview](#overview)
+        -   [The challenge](#the-challenge)
+        -   [Screenshot](#screenshot)
+            -   [Desktop Design](#desktop-design)
+            -   [Mobile Design](#mobile-design)
+        -   [Links](#links)
+    -   [My process](#my-process)
+        -   [Built with](#built-with)
+    -   [Author](#author)
 
-## Colors
+## Overview
 
-### Primary
+### The challenge
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+Users should be able to:
 
-### Neutral
+-   View the optimal layout depending on their device's screen size
+-   See hover and focus states for interactive elements
 
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
-- White: hsl(0, 0%, 100%)
+### Screenshot
 
-## Typography
+#### Desktop Design
 
-### Body Copy
+<p align="center">
+  <img src="./screenshots/desktop view.png" alt="desktop" width="600"  />
+</p>
 
-- Font size (paragraph): 14px
+#### Mobile Design
 
-### Font
+<p align="center">
+	<img src="./screenshots/mobile view.png" alt="mobile" height="500" /> 
+</p>
+### Links
 
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
-- Weights: 500, 700
+-   Solution URL: [https://github.com/ujjwalgarg100204/Frontend-Mentors-Product-preview-card-component-solution](https://github.com/ujjwalgarg100204/Frontend-Mentors-Product-preview-card-component-solution)
+-   Live Site URL: [https://ujjwalgarg100204.github.io/Frontend-Mentors-Product-preview-card-component-solution/](https://ujjwalgarg100204.github.io/Frontend-Mentors-Product-preview-card-component-solution/)
 
-- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
-- Weights: 700
+## My process
+
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   CSS Grid
+-   Mobile-first workflow
+
+## Author
+
+-   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
+-   Frontend Mentor - [@ujjwalgarg100204](https://www.frontendmentor.io/profile/ujjwalgarg100204)
+-   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
+-   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
+-   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)

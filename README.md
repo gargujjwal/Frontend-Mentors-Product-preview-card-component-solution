@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/ujjwalgarg100204/Frontend-Mentors-Product-preview-card-component-solution](https://github.com/ujjwalgarg100204/Frontend-Mentors-Product-preview-card-component-solution)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Frontend-Mentors-Product-preview-card-component-solution/](https://ujjwalgarg100204.github.io/Frontend-Mentors-Product-preview-card-component-solution/)
+-   Solution URL: [https://github.com/gargujjwal/Frontend-Mentors-Product-preview-card-component-solution](https://github.com/gargujjwal/Frontend-Mentors-Product-preview-card-component-solution)
+-   Live Site URL: [https://gargujjwal.github.io/Frontend-Mentors-Product-preview-card-component-solution/](https://gargujjwal.github.io/Frontend-Mentors-Product-preview-card-component-solution/)
 
 ## My process
 
@@ -85,9 +85,9 @@ To see how you can add code snippets, see below:
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Frontend Mentor - [@ujjwalgarg100204](https://www.frontendmentor.io/profile/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
+-   Website - [Ujjwal Garg](https://github.com/gargujjwal)
+-   Frontend Mentor - [@gargujjwal](https://www.frontendmentor.io/profile/gargujjwal)
+-   Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
 -   Linkedin - [@ujjwalgarg100Screenshot 2023-06-03 at 10-33-41 Frontend Mentor Product preview card component.png204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
 -   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
